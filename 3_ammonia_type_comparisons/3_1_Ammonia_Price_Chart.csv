@@ -1,0 +1,16 @@
+color,region,incoterms,April_2024,May_2024,June_2024
+gray,Black Sea,FOB,374.52,356.43,352.50
+gray,Middle East,FOB,303.33,323.33,360.00
+gray,USGC,CFR,472.62,442.86,403.50
+gray,Far East Asia,CFR,387.62,440.00,450.00
+gray,Northwest Europe,CFR,475.71,460.71,452.25
+blue,Middle East,FOB,336.28,359.13,399.16
+blue,USGC,CFR,498.59,470.74,432.16
+blue,Far East Asia,CFR,420.57,475.80,489.16
+blue,Northwest Europe,CFR,520.23,508.00,501.90
+green,Far East Asia FROM Australia,DLVD,904.84,905.24,903.57
+green,Northwest Europe FROM US Gulf Coast,DLVD,939.43,933.30,930.05
+green,Far East Asia FROM Middle East,DLVD,993.98,986.90,983.90
+green,Northwest Europe FROM Middle East,DLVD,1010.38,1004.40,1001.90
+green,Northwest Europe FROM EC Canada,DLVD,1037.68,1034.31,1033.56
+green,Far East Asia from WC Canada,DLVD,1058.48,1055.81,1055.31
